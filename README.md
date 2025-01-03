@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Siyam Uddin Talha, a passionate Full Stack Developer with a proven track record in building dynamic and scalable web applications. I specialize in leveraging modern technologies, including Python, FastAPI, Node.js, GraphQL, React, Next.js, Prisma, MongoDB, and MySQL, to transform ideas into user-friendly, high-performance solutions.<br><br>🚀 My Journey:<br>With over 3.6 years of industry experience, I’ve had the opportunity to work across a wide range of projects, from innovative startups to well-established businesses. This diverse experience has sharpened my skills in delivering top-notch software solutions that not only meet but exceed client expectations.
+As a passionate Full-Stack Developer with over 4 years of experience, specializing in Python, FastAPI, Node.js, GraphQL, React, React-Native, Next.js, Prisma, and MySQL, they have worked with startups and enterprises to create scalable, user-friendly software solutions tailored to business goals.
 
 
 ## 🌐 Socials:
