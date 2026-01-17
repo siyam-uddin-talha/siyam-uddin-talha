@@ -1,5 +1,5 @@
 # Hi there, I'm Siyam Uddin Talha 👋
-### Full-Stack Engineer | AI & RAG Specialist
+### Senior Full-Stack Engineer | AI & RAG Specialist
 
 With over **4+ years of professional engineering experience**, I help scaling businesses and ambitious startups turn complex requirements into high-performing, future-proof software.
 
@@ -65,20 +65,12 @@ I view every project as a partnership. My code is written to be **modular and cl
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyam-uddin-talha&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyam-uddin-talha&theme=dark&hide_border=false" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyam-uddin-talha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siyam-uddin-talha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=siyam-uddin-talha&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyam-uddin-talha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siyam-uddin-talha&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=siyam-uddin-talha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
