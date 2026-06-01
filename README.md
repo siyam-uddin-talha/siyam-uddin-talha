@@ -1,7 +1,7 @@
 # 💫 About Me:
 ** Full-Stack Engineer | AI & RAG Specialist**
 
-With over **4+ years of professional engineering experience**, I help scaling businesses and ambitious startups turn complex requirements into high-performing, future-proof software. I specialize in a modern, powerful technology stack that combines **Python and FastAPI** for backend performance, along with **React, Next.js, and React Native** for exceptional user experiences.
+With over **5+ years of professional engineering experience**, I help scaling businesses and ambitious startups turn complex requirements into high-performing, future-proof software. I specialize in a modern, powerful technology stack that combines **Python and FastAPI** for backend performance, along with **React, Next.js, and React Native** for exceptional user experiences.
 
 My approach goes beyond writing code. I architect systems that are secure, scalable, and increasingly intelligent. By integrating **Retrieval-Augmented Generation (RAG)** and AI agents into standard applications, I help clients leverage the latest in artificial intelligence to create smarter workflows and data-driven products.
 
